@@ -6,13 +6,20 @@
     text-align: center;
     color: blue;
 }
+.nombre{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
 
+.foto{
+    text-align: center;
+    margin-top: 20px;
+}
 .tablaPrincipal{
     margin: auto;
     margin-top: 200px;
     color: rgb(98,97,97);
 }
-
 .header{
     margin-left: 100px;
     color:rgb(88,88,89);
