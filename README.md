@@ -26,5 +26,5 @@ Estructura de la plantilla
 ```
 
 Autor: 
-José Juan Ulín R.
-@ulinjr :+1:
+José Juan Ulín R. <br>
+:envelope: ulinjr@gmail.com
